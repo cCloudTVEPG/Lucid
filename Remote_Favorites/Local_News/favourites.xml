@@ -1,4 +1,5 @@
 <favourites>
-	  <favourite name="master.m3u8">PlayMedia(&quot;https://raw.githubusercontent.com/cCloudTVEPG/Lucid/master/Remote_Favorites/Local_News/master.m3u8&quot;)</favourite>
-		  
+   
+    <favourite name="Network">ActivateWindow(10001,&quot;plugin://plugin.program.super.favourites/?label=Streaming&mode=400&path=https%3A%2F%2Fraw.githubusercontent.com%2FcCloudTVEPG%2FLucid%2Fmaster%2FRemote_Favorites%2FLocal_News&image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.break_com%5Cicon.png&fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.break_com%5Cfanart.jpg&content_type=&reload&quot;,return)</favourite>
+<favourite name="master.m3u8">PlayMedia(&quot;https://raw.githubusercontent.com/cCloudTVEPG/Lucid/master/Remote_Favorites/Local_News/master.m3u8&quot;)</favourite>
 </favourites>
