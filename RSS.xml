@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Updates</title>
+
+  <description>Kodi Max Update</description>
+  <item>
+    <title>Kodi 17</title>
+    
+    <description>Kodi V17 Kodi Max 2.0 Update Available</description>
+  </item>
+  <item>
+    <title>Kodi 18</title>
+ 
+    <description>Kodi V17 Kodi Max 2.0 Update Coming Soon!</description>
+  </item>
+</channel>
+
+</rss>
