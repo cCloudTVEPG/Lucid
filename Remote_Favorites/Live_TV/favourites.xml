@@ -1,4 +1,6 @@
 <favourites>
+    <favourite name="[COLOR orange]NBC 720p[/COLOR]">PlayMedia(&quot;plugin://plugin.video.Rising.Tides/?url=%24doregex%5Bget_sxstream%5D%7CReferer%3Dhttp%3A%2F%2Fgivemenbastreams.com%2F&amp;mode=17&amp;regexs=%7Bu%27get_sxstream%27%3A%20%7B%27refer%27%3A%20u%27http%3A//givemenbastreams.com/%27%2C%20%27page%27%3A%20u%27http%3A//givemenbastreams.com/nfl.php%3Fg%3Dchiefs%27%2C%20%27expre%27%3A%20u%27source%3A%20.%2A%5B%22%2C%5C%27%5D%28.%2Am3u8.%2A%3F%29%5B%22%2C%5C%27%5D%27%7D%7D&quot;)</favourite>
+
     <favourite name="[COLOR orange]A&amp;E[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/AE.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D37efae90b57ef5386e3eda66e31d94cd&amp;content=0&quot;)</favourite>
     <favourite name="[COLOR orange]ABC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/abc-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da137d6dcc10bca1ccb15dba0e2183480&amp;content=0&quot;)</favourite>
     <favourite name="[COLOR orange]ACC Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2021/06/accn.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9acdc4f61022d84547a8e9c812226241&amp;content=0&quot;)</favourite>
