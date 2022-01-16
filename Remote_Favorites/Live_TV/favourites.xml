@@ -1,199 +1,94 @@
 <favourites>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/AE.png" name="[COLOR orange]A&E[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dbc834ffa04bb9d0246dbadb3cf9097f9&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/abc-269x151.jpg" name="[COLOR orange]ABC[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D84b3a2c66bb85b619b536265b4b60a7a&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2021/06/accn.jpg" name="[COLOR orange]ACC Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D04021ebfeb9fc6e4a0cf56d848bdc051&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/AMC-1.png" name="[COLOR orange]AMC[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D25af43fe1ad194c7a2479fffdd54d1e7&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/animal-planet.png" name="[COLOR orange]Animal Planet[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D7ad9d5a060f31012b5d7d79fb3cdd4b1&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/BBC.jpg" name="[COLOR orange]BBC America[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Ddb2da2721a25b57f6126a5478ee294cc&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/bet-269x151.png" name="[COLOR orange]BET[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc14d13bf6ba600b5a0c7c2265aec91de&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/BTN.jpg" name="[COLOR orange]Big Ten Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D05d9de57bbe6a4eb79b15f6f42e13b8d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Boomerang.png" name="[COLOR orange]Boomerang[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dbbf35c2be9a2f61d7bd22a93f19bf24b&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/bravo-269x151.png" name="[COLOR orange]Bravo[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D73cf533cbd8e4e2948673c1d74a49d07&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/cspan-269x151-1.png" name="[COLOR orange]C-SPAN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D876146294a2df697f9ba6b0c6a3112b6&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/CBS-1.png" name="[COLOR orange]CBS[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D16f94c518137678c1e2013b035f51103&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/cbssn.jpg" name="[COLOR orange]CBS Sports Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D23600a5d56fd67c9a5dcfb66ac04511b&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/cmt-1.png" name="[COLOR orange]CMT[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D168f57c1c0a683c28214520ea982c6e2&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/cnbc-1.jpg" name="[COLOR orange]CNBC[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D1289871de58b13a994c9b02d6239f7ae&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/CNN-1.png" name="[COLOR orange]CNN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D83bb054231591c1f7e51ca6fb54ec814&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/cartoon-network.jpg" name="[COLOR orange]Cartoon Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D05c15d4ca231f046ed961393d88436c1&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/04/cinemax.jpg" name="[COLOR orange]Cinemax[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D2f37f4b31f690c0a92680c8affab16de&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/comedy-central-269x151.png" name="[COLOR orange]Comedy Central[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dee01099c49256d587fcb47cb766553de&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/diy.png" name="[COLOR orange]DIY[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D6ddb2416920deb438a1e6d6771edc04f&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Destination_America.png" name="[COLOR orange]Destination America[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D11fdac4f2ded13ca3527583dcc129ee8&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Discovery.png" name="[COLOR orange]Discovery Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dbf62f7db3fffceacc2270fc075ca9b7d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/disney-269x151.png" name="[COLOR orange]Disney Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Df75c846028155335b5fd083731120d35&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/disney-jr-768x432-1.png" name="[COLOR orange]DisneyJr[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dfb35b41616d83c18b01f6cd2151f8749&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/disney-xd-768x432-1.png" name="[COLOR orange]DisneyXD[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dcfb56b56ddf3cc4711155ca42a49da48&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/E.png" name="[COLOR orange]E![/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D286fab8c4ec0d2d90fcd3ede46a0046c&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/espn-269x151.png" name="[COLOR orange]ESPN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D320dc15fc2e060925834a6c2f75bc43d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/espn2-269x151.png" name="[COLOR orange]ESPN2[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D5a3e03e2bb9b3b947da4e83726114646&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/espnu-269x151-1.png" name="[COLOR orange]ESPNU[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D14d97c913d6fa60c06a36f3f1ec69f5d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/espnews-269x151-1.png" name="[COLOR orange]ESPNews[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd2206bfab4ad42b551cd59f3234e0c33&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/FOX-1.png" name="[COLOR orange]FOX[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D63689f6f4c11f23d15b901b65b842b95&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fx-269x151.png" name="[COLOR orange]FX[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D70bc6c207da92c191d06146746e8c69d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/FXM.png" name="[COLOR orange]FXM[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D8d43a73a12ddfc5065aa5bdfed4170a2&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/FXX.png" name="[COLOR orange]FXX[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0f878b428352d5a7741dcd70bf122743&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/food-network-269x151.png" name="[COLOR orange]Food Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D45bcb12b1db0596980a9439f59883f3a&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/foxbusiness.jpg" name="[COLOR orange]Fox Business[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Da4df46ba7fcbfe2caa7d68cde7610cf6&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/foxnews.jpg" name="[COLOR orange]Fox News[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D7b9df4aadcbc08c171799d8ceb5cb693&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fs1-269x151.png" name="[COLOR orange]Fox Sports 1[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D4b0bf4d0d209c01276f0a6c4a44a53f4&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fs2-269x151.png" name="[COLOR orange]Fox Sports 2[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D6363524dc979d90094d9a2be33c2471a&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/freeform-269x151.png" name="[COLOR orange]Freeform[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc55b10981fdf9f8ce45c64e3c71e8b85&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/GSN.jpg" name="[COLOR orange]GSN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Df719fea82161754a751b9eac53b406c1&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/golf-269x151.png" name="[COLOR orange]Golf Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc447406081f3560181616403a9450229&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/hbo-269x151.png" name="[COLOR orange]HBO[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D9dfde6f19b400dc8ef4789319c59d5c4&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/HGTV-269x151.png" name="[COLOR orange]HGTV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D42844c471c497168ad363209ea139a30&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/HLN.jpg" name="[COLOR orange]HLN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3De13eaae2489db13ec22312a5c6d039fc&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" name="[COLOR orange]Hallmark Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D51fca5775fdbb85ea6d2d462f5b5be00&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" name="[COLOR orange]Hallmark Movies & Mysteries[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Db241d82611ae9b61cf3fc3fc012f1e43&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/History.png" name="[COLOR orange]History Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dcb6058ff7ad971dcdd77f09bdbcf549d&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/id-269x151.jpg" name="[COLOR orange]Investigation Discovery[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc8efb6b134b3daf6b624b609bf0225c2&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Lifetime-269x151.png" name="[COLOR orange]Lifetime[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3De142bebb2eda67d51b94b3850ea07b6a&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/lifetimeM.jpeg" name="[COLOR orange]Lifetime Movies[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D47c7b192e8c2da7b00fd17961830a6d3&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/MLB.png" name="[COLOR orange]MLB Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0f88365e0cb1be42bbac07849c6c2e81&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" name="[COLOR orange]MSNBC Live Streaming Free[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dac7d88e07695692189203038c726fd65&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/mtv.jpg" name="[COLOR orange]MTV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd75134c9cd56ddd352f15e778d8c3ec0&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Motortrend-1.png" name="[COLOR orange]MotorTrend[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D532059bd2a539850fa29f449ddc54b16&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/NatGeoWild.jpeg" name="[COLOR orange]NAT GEO WILD[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D4642e3503b40e798625cf0099c672add&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/nbatv-269x151.jpg" name="[COLOR orange]NBA TV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0276ff3985f3c092d8b18ef6198397c1&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/nbc-logo.jpg" name="[COLOR orange]NBC[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0b0be4462bfd83b63bc0021fe11e2413&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/nbcsn-269x151.jpg" name="[COLOR orange]NBC Sports[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dba3b6ee94c94803f6cce71e90c1ab7bb&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/NFLRZ.jpg" name="[COLOR orange]NFL RedZone[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D11a8e251607ec374c92b72b5cffc5e85&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/National-Geographic-269x151.png" name="[COLOR orange]National Geographic[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D8a46114e233fa60e6f60196da9fc5a31&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Nickelodeon_2009.png" name="[COLOR orange]Nickelodeon[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Db8b244cf2bdb2841b180899c7efcf010&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/nicktoons.png" name="[COLOR orange]Nicktoons[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Df554c0130f2d18d2d07bc4f12431d44a&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/own.jpg" name="[COLOR orange]OWN[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D9316f2fab991ff097d4519c8598f5920&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg" name="[COLOR orange]Olympic Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D91562247a8f2cb31ff73f1e98731f4c1&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/OAN.jpg" name="[COLOR orange]One America News Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D9388cba862801477806d71f4378cad3f&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Oxygen-1.png" name="[COLOR orange]Oxygen[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D891bf910ff46e01c1d243d25866b9c04&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/PBS.jpg" name="[COLOR orange]PBS[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D5b43d67131818fecd1bae75f5eee204c&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Pop_Network-1.png" name="[COLOR orange]POP[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Df25061353b83bb91546c6294d8750d65&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/paramount.jpg" name="[COLOR orange]Paramount Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D7d383c7b47e78711ba494290417abdb3&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/sec.jpg" name="[COLOR orange]SEC Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Deba62b1023fcc5b55d81fd06222cafae&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Science.jpg" name="[COLOR orange]Science[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D4886eef6463fadf6159bd1ec0c16a0b0&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Showtime-269x151.png" name="[COLOR orange]Showtime[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D9d3f7c03ac59464b2bb978a39e1e0525&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/StarZ-269x151.png" name="[COLOR orange]Starz[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D4e34cde8a5a4e732e7279f3f7ca3ffa0&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/sundance-tv.jpg" name="[COLOR orange]Sundance TV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dab6d25baee70c4b9b386b19f3c645943&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/syfy-269x151.png" name="[COLOR orange]Syfy[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Df8f6dc400569fa694bb5398c7560b223&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/tbs-269x151.png" name="[COLOR orange]TBS[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D382983a8d1d75b7bc26e20fc18dd1b14&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/TCM.png" name="[COLOR orange]TCM[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D228072a3099a6b1885a1f797e982d964&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/tlc-269x151.png" name="[COLOR orange]TLC[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D25d43123cb915c76fc97f8cfa4cf7731&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/TVLand-269x151.png" name="[COLOR orange]TV Land[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Db0362d795df4be74107102ccd8660641&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/Telemundo.png" name="[COLOR orange]Telemundo[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D56f1b0986dd1731acba29921eb2e6dc2&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" name="[COLOR orange]Tennis Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0a27d4621c27bcc3454f5b3c11f0e7f3&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/cw-269x151.png" name="[COLOR orange]The CW[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Da6c5fca57bb6e532a9ecaebfd6082fcc&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2018/10/Weather-Channel-269x151.png" name="[COLOR orange]The Weather Channel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D763c53c27f7edfd67f149cd6b2e38f72&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Travel-269x151.png" name="[COLOR orange]Travel[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D552ec7da71e01e3151c26a90d242c97b&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/TruTV-269x151.png" name="[COLOR orange]TruTV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc5f6e5f64d04224fa1cdb9d1af292853&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/USA-Network-269x151.png" name="[COLOR orange]USA Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D2401b428c8c8e3f6ab62238d1b36ee06&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/univisionlogo.jpg" name="[COLOR orange]Univision[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D41e095979ae507d068efe7fa5e27a8ec&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/vh1.png" name="[COLOR orange]VH1[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dff6e7b757dd4157224c71a49b18c4e16&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/wwe-269x151.png" name="[COLOR orange]WWE Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3Dde0d5fb61d8f41eaeb7d8ae7381f76dd&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/wetv.jpg" name="[COLOR orange]We TV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D7ec8644f9248258967b1455c8c2438e6&content=0")</favourite>
-
-<favourite thumb="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/04/yes.jpg" name="[COLOR orange]YES Network[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D01b1ac300615d42a1bce75b8b9def3ec&content=0")</favourite>
-
-<favourite thumb="https://i0.wp.com/tv247.us/wp-content/uploads/2021/05/ABCNEWS.png?fit=240%2C160" name="[COLOR orange]ABC NEWS[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D87c8600e7fe6529df59b93b35b5add79&content=0")</favourite>
-
-<favourite thumb="https://i0.wp.com/tv247.us/wp-content/plugins/post-grid/assets/frontend/images/placeholder.png?w=1020" name="[COLOR orange]Fox Soccer Plus[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D0bc030a4a0ce7c2317f6ade44822d508&content=0")</favourite>
-
-<favourite thumb="" name="[COLOR orange]Buzzr[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D36767d16f3a0150070e84c6e393dbf8d&content=0")</favourite>
-
-<favourite thumb="" name="[COLOR orange]Comet[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D2cd76887fe5e66f02281b577d6304330&content=0")</favourite>
-
-<favourite thumb="" name="[COLOR orange]CON TV[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D8627c0ede70f9bc8f33f65f905fdae2c&content=0")</favourite>
-
-<favourite thumb="" name="[COLOR orange]PBS Kids[/COLOR]">PlayMedia("plugin://plugin.video.thecrew/?action=play&url=%24doregex%5Bmakelist2%5D%7Cregex%3D23699a815f126fc3a6a91617a6a5c466&content=0")</favourite>
-
+    <favourite name="[COLOR orange]A&amp;E[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/AE.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D37efae90b57ef5386e3eda66e31d94cd&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ABC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/abc-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da137d6dcc10bca1ccb15dba0e2183480&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ACC Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2021/06/accn.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9acdc4f61022d84547a8e9c812226241&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]AMC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/AMC-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D24dcc3a9b0efb5e89937f0d7ad3c7c39&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Animal Planet[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/animal-planet.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D44b499f24d99641e66a3b195af25ceb9&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]BBC America[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/BBC.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9b4b7e2113a52cef571e24028598099b&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]BET[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/bet-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D44adb2a491f79d1cbf381077bb2d9759&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Big Ten Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/BTN.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D55df8359638abdeb3d31c9da7809cfdf&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Boomerang[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Boomerang.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dbc7c367f4e5eb44833ff09028713c84e&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Bravo[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/bravo-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da03cd0fad562701c90c45cecba7957dd&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]C-SPAN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/cspan-269x151-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D6ac4bb39f1dbbb739f462f498267271c&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]CBS[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/CBS-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D0039ce11ef601e5ddd6d8ebe63d059bb&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]CBS Sports Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/cbssn.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D1bfc79a28e6952ff53ca70fc73db6035&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]CMT[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/cmt-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D8eca9170c539bb2c949310ff4cd0f6ab&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]CNBC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/cnbc-1.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D21273a71de507eab6be68bd43744c638&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]CNN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/CNN-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Db1134fce521dedca92e9a229b2476d76&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Cartoon Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/cartoon-network.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D23da3f425360781f4d47df00a4dc919c&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Cinemax[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/04/cinemax.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D50f3bc9c5e06b8b9a444f53c30ea5b5d&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Comedy Central[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/comedy-central-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2b370042d36a881e45b7d61dba56c33c&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]DIY[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/diy.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3De19a51510c5b8c86683f8b714c457a05&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Destination America[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Destination_America.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D22c67ca51d82034bd4fb3471a0b6e305&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Discovery Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/Discovery.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9c9413b86d1bafa144afd16b290e522e&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]DisneyJr[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/disney-jr-768x432-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Ddec1f63c4e6066c6f4c39bb1598be58b&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]DisneyXD[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/disney-xd-768x432-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da5fa393c02ccbbde42600d70e5df55ad&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]E![/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/E.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2d84c502f88052f16bcebf3a707ccc72&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ESPN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/espn-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9ca045c8e8dbe7dea1319cf673588966&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ESPN2[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dc3899cb4176602890ac06ccd8eea4ad6&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ESPNU[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/espnu-269x151-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Df9b978885d994391e969e970efb50339&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]ESPNews[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/espnews-269x151-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D6cd4589cdc6bd38698059765a8a66572&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]FOX[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/FOX-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Ded48db9a00f25836ef41d5022ad28996&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]FX[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/fx-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da7c4f67fa5953b427965057bdf965626&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]FXM[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/FXM.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D89dff834076b7b0e73fe98752378246d&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]FXX[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/FXX.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dee35776b7eafe026fe9abfdc3725f418&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Food Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/food-network-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D4e0f6192ae5a75ee6796c4bf388876cc&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Fox Business[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/foxbusiness.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D16b862cb0eb2e0a2e5332bab5144364e&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Fox News[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/foxnews.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Ded965c87f706c2e1d8579964a9bc0b75&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Fox Sports 1[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/fs1-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd2c6f1349681ecddaae74edf02739660&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Fox Sports 2[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/fs2-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D1a2b694b4ecca2d0475245a7cf859592&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Freeform[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/freeform-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Ddb69c4879c2431b1c50169c92d519798&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]GSN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/GSN.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D13514f698b7cc9f7c0cf17be95b6743b&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Golf Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/golf-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D37a0b701ad4afe4e2cd989efee1748a8&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]HBO[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/hbo-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dcf89106520fd0fd283ca62bfb553d4bf&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]HGTV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/HGTV-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D36d968ade7abdcce432dca83ef97befa&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]HLN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/HLN.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd08ae3d03647507208dbc643286c19f3&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Hallmark Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D717413c211f6db59f2ebaa78c99a45ca&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Hallmark Movies &amp; Mysteries[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D55c08f78cf043b03e285848b00869222&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]History Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/History.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D5397baca3da122f5fd5a93f216501de8&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Investigation Discovery[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/id-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Db72608f3295417bc9c1a72d8d2922e74&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Lifetime[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/Lifetime-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D83bb88a809255d7a940855a905eee0cb&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Lifetime Movies[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da271403c837e2139e30eaa33d00ba879&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]MLB Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/05/MLB.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D5fcf76c1ae9315170f385576fa9f07f3&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]MSNBC Live Streaming Free[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D07a34d19dc86fdff1ce2a613a16abc9d&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]MTV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3De3e1cb19ec0374e15adb4a1b5a0d84e7&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]MotorTrend[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Motortrend-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D8a76addb6b9e075012e232090619cacb&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]NAT GEO WILD[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/NatGeoWild.jpeg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D3cc8cc9035c412227b0b42a53ad03834&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]NBA TV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/nbatv-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D67686c982b56a40a2453d88b6ef68f09&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]NBC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/nbc-logo.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd2191f4f401bdb9866d8b9340164c1ef&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]NBC Sports[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/nbcsn-269x151.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D4eff63a2438be13355bb104406a15c63&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]NFL RedZone[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/NFLRZ.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D4bc143b8ae2c805b76d8968e2f04f258&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]National Geographic[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/National-Geographic-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D049db92fa3b0e1e28749e5cebf929329&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Nickelodeon[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/Nickelodeon_2009.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9ce8aa7458a156f50eb312b43f47c06b&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Nicktoons[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/nicktoons.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dcdb82a459fb77b8f34f31e4a6b32852c&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]OWN[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/own.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Df94746c629fd56e177fd19f70a7dae57&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Olympic Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/oly.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd681507e2e8266dd04603d24991e4b69&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]One America News Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/09/OAN.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D8b6a411b5570b95449d67f8d20c1b472&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Oxygen[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Oxygen-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D3e784b0d9a1f1015f356b78d1bb30e06&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]PBS[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/PBS.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D046cc3fcc160c94652c7e13435d71c05&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]POP[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Pop_Network-1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D298a58f6da9f4534e67069898cf93ca5&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Paramount Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/paramount.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dfbfce5444ef58ac1cf66f3f3f9e906d0&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]SEC Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2020/09/sec.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D44531749d202a7b5c3049671bc6f08c5&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Science[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Science.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da7411d09d10aa56ecc15f4b5694258dd&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Showtime[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/Showtime-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D7216030b0beb2781156b536d36558f69&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Starz[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/StarZ-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D86ef4208fe10eaf44af18d6c97f577df&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Sundance TV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/sundance-tv.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Ded7b0784bc40f6b34453e3ab9e6e39bc&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Syfy[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/syfy-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D29672a386fe70c58c79d11ad9f49bf8c&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]TBS[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/tbs-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D769f355139a081857757e7887abef2a7&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]TCM[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/05/TCM.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9da9f15f1c09ff780737e244f068c088&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]TLC[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/tlc-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Db6bb3e8be55494baf771a83bcfd817ba&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]TV Land[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/TVLand-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D28b2c199f24375f507010980ab7f13ce&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Telemundo[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/Telemundo.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da311b6ed8097bb147d8b17caaad3f7ef&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Tennis Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3De59d93584ac1ae3f32abc6259651e1f0&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]The CW[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/cw-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2618491d2024898b5ac6366efb012ee9&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]The Weather Channel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2018/10/Weather-Channel-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D7e0d642c89bb28102c0b13050e237436&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Travel[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/Travel-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Daaf46bfac990ee42ce8bdb2e7a13aea8&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]TruTV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/TruTV-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D4cfad8c65c0ab10d11f9327c0d1808c8&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]USA Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/01/USA-Network-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D3377d069636c400f93d8d91dcf984d68&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]Univision[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/univisionlogo.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D3faaf62bf3f6eeb1ba88f98ae268e7b5&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]VH1[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/vh1.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D0e573e0c76d17ebf6bdb47aee1a61575&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]WWE Network[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/09/wwe-269x151.png">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D5dfb6aed249bc5834a4953c90e8dc47b&amp;content=0&quot;)</favourite>
+    <favourite name="[COLOR orange]We TV[/COLOR]" thumb="https://ustvgo.tv/wp-content/uploads/2019/08/wetv.jpg">PlayMedia(&quot;plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D1ffd2ece4fcb4d24dc251108910ea6b6&amp;content=0&quot;)</favourite>
+    <favourite name="Pac 12 Arizona" thumb="C:\Users\Nick\AppData\Roaming\Kodi\addons\plugin.video.OblivionStreams\icon.png">PlayMedia(&quot;plugin://plugin.video.OblivionStreams/?url=http%3A%2F%2Fwww.sdw-net.me%2Fchannels%2FPac-12-Arizona.html&amp;mode=100038&amp;name=Pac+12+Arizona&amp;iconimage=C%3A%5CUsers%5CNick%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.OblivionStreams%5Cicon.png&amp;fanart=C%3A%5CUsers%5CNick%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.OblivionStreams%5Cfanart.jpg&amp;description=&quot;)</favourite>
+    <favourite name="PBS" thumb="C:\Users\Nick\AppData\Roaming\Kodi\addons\plugin.video.OblivionStreams\icon.png">PlayMedia(&quot;plugin://plugin.video.OblivionStreams/?url=http%3A%2F%2Fwww.sdw-net.me%2Fchannels%2FPBS.html&amp;mode=100038&amp;name=PBS&amp;iconimage=C%3A%5CUsers%5CNick%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.OblivionStreams%5Cicon.png&amp;fanart=C%3A%5CUsers%5CNick%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.OblivionStreams%5Cfanart.jpg&amp;description=&quot;)</favourite>
 </favourites>
