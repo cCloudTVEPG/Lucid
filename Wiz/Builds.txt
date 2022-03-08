@@ -2,7 +2,7 @@ id="plugin.program.LucidWizard"
 version="1.4.9"
 zip="url.to.wizard"
 
-name="Kodi Max 2.0"
+name="Kodi Max 2.0 Updated"
 version="2.3B"
 url="https://drive.google.com/uc?export=download&confirm=9iBg&id=1yfWzF-xXKtyz4e6QKg7M3Um976xTW-FK"
 minor="http://"
