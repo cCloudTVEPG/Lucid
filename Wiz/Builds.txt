@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Kodi Max 2.0 V2.3B"
 version="2.3B"
-url="https://drive.google.com/file/d/1yfWzF-xXKtyz4e6QKg7M3Um976xTW-FK/view?usp=sharing"
+url="https://drive.google.com/uc?id=1yfWzF-xXKtyz4e6QKg7M3Um976xTW-FK&export=download"
 minor="http://"
 gui="url.to.guisettings"
 kodi="17.6"
