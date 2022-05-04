@@ -1,6 +1,6 @@
 id="plugin.program.LucidWizard"
-version="1.4.9"
-zip="https://github.com/cCloudTVEPG/repo/blob/master/Zips/plugin.program.LucidWizard/plugin.program.LucidWizard-2.0.7b.zip?raw=true"
+version="0.5.0"
+zip="https://github.com/cCloudTVEPG/repo/blob/master/Zips/plugin.program.LucidWizard/plugin.program.LucidWizard-0.5.0.zip?raw=true"
 
 name="Kodi Max 2.0"
 version="2.4"
