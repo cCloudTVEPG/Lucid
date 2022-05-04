@@ -18,7 +18,7 @@ description="This just updates the wizard with the new URLs also removes The Oat
 
 name="Kodi Max 2.0"
 version="2.3c"
-url="https://www.googleapis.com/drive/v3/files/1W0kl1othwMEbLSkvR4Wvd0xg0xkqlVho/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
+url="https://www.googleapis.com/drive/v3/files/1W0kl1othwMEbLSkvR4Wvd0xg0xkqlVho/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media "
 minor="http://"
 gui="url.to.guisettings"
 kodi="17.6"
