@@ -52,7 +52,7 @@ description="A short description of the build."
 
 name="TITANIUM -- USA SERVER"
 version="4.3"
-url="https://od.lk/d/NzNfMjczMTA2OTJf/titanium.zip"
+url="https://www.googleapis.com/drive/v3/files/1x9JOHOHKM5PZ04zWpZPmQqShPbyzNiCA/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
 minor="http://"
 gui="https://supremebuilds.com/builds/krypton/t/titanium_guisettings.zip"
 kodi="17.6"
