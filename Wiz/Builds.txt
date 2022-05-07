@@ -50,7 +50,7 @@ description="A short description of the build."
 
 
 
-name="TITANIUM -- USA SERVER"
+name="TITANIUM"
 version="4.3"
 url="https://www.googleapis.com/drive/v3/files/1x9JOHOHKM5PZ04zWpZPmQqShPbyzNiCA/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
 minor="http://"
