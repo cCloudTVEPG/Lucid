@@ -4,7 +4,7 @@ zip="https://github.com/cCloudTVEPG/repo/tree/master/Zips/plugin.program.LucidWi
 
 name="Kodi MAME"
 version="2.0"
-url="https://www.googleapis.com/drive/v3/files/1eg3WXGCVZayi9k7TfLAnUZHA3kUc74kz/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
+url="https://www.googleapis.com/drive/v3/files/1sof_2ly2dF-fI8RUJpIbKz4FQRg9wilh/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
 minor="http://"
 gui=""
 kodi="19.0"
