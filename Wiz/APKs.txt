@@ -1,3 +1,20 @@
+name="Kodi 21.2 Omega 32Bir"
+section="yes"
+url="https://mirrors.kodi.tv/releases/android/arm/kodi-21.2-Omega-armeabi-v7a.apk?https=1t"
+icon="https://kodi.tv/images/distributions/android.webp" 
+fanart="https://i.imgur.com/TDiTtbA.jpeg"
+adult="No"
+description="Kodi 21.2 32Bit"
+
+name="Kodi 21.2 Omega 64Bir"
+section="yes"
+url="https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-21.2-Omega-arm64-v8a.apk?https=1"
+icon="https://kodi.tv/images/distributions/android.webp" 
+fanart="https://i.imgur.com/TDiTtbA.jpeg"
+adult="No"
+description="Kodi 21.2 64Bit"
+
+
 name="UK TV"
 section="yes"
 url="http://aftermathwizard.net/testtext/apks2.txt"
