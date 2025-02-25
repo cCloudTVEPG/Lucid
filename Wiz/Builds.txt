@@ -4,7 +4,7 @@ zip="https://github.com/cCloudTVEPG/repo/tree/master/Zips/plugin.program.LucidWi
 
 name="Kodi Max 4.0"
 version="1.0"
-url="https://www.googleapis.com/drive/v3/files/17p4ihvUnSQj62E4YzOGvoCt2NnzkDA1Y/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
+url="https://www.googleapis.com/drive/v3/files/1MNvtSbv1ee-UVV2ldjq3hk2knd5y2nJT/?key=AIzaSyCQXb7otuNA4e0cqA22MZ3OTrvw9wC5FBw&alt=media"
 minor="http://"
 gui=""
 kodi="19.0"
