@@ -2,6 +2,23 @@ id="plugin.program.LucidWizard"
 version="2.0.7"
 zip="https://github.com/cCloudTVEPG/repo/tree/master/Zips/plugin.program.LucidWizard/"
 
+
+
+name="Kodi Max 4.0"
+version="1.1"
+url="https://www.dropbox.com/scl/fi/f2pz83eyvoqog9evr1faa/Kodi_Max4.0V_1.1.zip?rlkey=zrq4bxtn78c6cdakpertgvrhk&st=ixvozrm8&dl=1"
+minor="http://"
+gui=""
+kodi="19.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/cCloudTVEPG/Lucid/master/Wiz/Icons/Green.jpg"
+fanart=""
+preview="http://"
+adult="no"
+info="http://"
+description="This is The exact same as V1.3A This is only to correct the wizard address since google blocked the last backup"
+
+
 name="Kodi Max 4.0"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/4kpuh7ebos5zg4ahwfplz/Backup.zip?rlkey=9eds0brghlrfi2ni3zc8o0aca&e=1&st=anf88m89&dl=1"
