@@ -4,10 +4,10 @@ zip="https://github.com/cCloudTVEPG/repo/tree/master/Zips/plugin.program.LucidWi
 
 name="Kodi Max 4.0"
 version="1.2"
-url="https://www.dropbox.com/scl/fi/f2pz83eyvoqog9evr1faa/Kodi_Max4.0V1.2.zip?rlkey=i2a0kb8gfddnqp5g5cxk7v0tx&st=0wyocqcl&dl=1"
+url="https://www.dropbox.com/scl/fi/2f3leri6jo9lpunh832px/Kodi_Max4.0V1.2.zip?rlkey=i2a0kb8gfddnqp5g5cxk7v0tx&st=0wyocqcl&dl=1"
 minor="http://"
 gui=""
-kodi="21.0"
+kodi="19.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/cCloudTVEPG/Lucid/master/Wiz/Icons/Green.jpg"
 fanart=""
