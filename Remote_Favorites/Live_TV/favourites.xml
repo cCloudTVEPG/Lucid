@@ -1,5 +1,4 @@
 <favourites>
-    <favourite name="[COLOR limegreen]Force Update all Addons[/COLOR]" thumb="C:\Users\Nick\AppData\Roaming\Kodi\addons\plugin.program.LucidWizard\resources\media\maintenance.png">PlayMedia("plugin://plugin.program.LucidWizard/?mode=forceupdate&amp;action=auto")</favourite>
     <favourite name="A&amp;E USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-302.php")</favourite>
     <favourite name="Animal Planet">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-304.php")</favourite>
     <favourite name="Adult Swim">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-295.php")</favourite>
