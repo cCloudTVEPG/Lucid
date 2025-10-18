@@ -1,1 +1,129 @@
-sdfa
+<favourites>
+    <favourite name="A&amp;E USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-302.php")</favourite>
+    <favourite name="Animal Planet">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-304.php")</favourite>
+    <favourite name="Adult Swim">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-295.php")</favourite>
+    <favourite name="Boomerang">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-648.php")</favourite>
+    <favourite name="BET USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-306.php")</favourite>
+    <favourite name="Bravo USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-307.php")</favourite>
+    <favourite name="CBS Sports Network (CBSSN)">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-308.php")</favourite>
+    <favourite name="COZI TV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-748.php")</favourite>
+    <favourite name="CMT USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-647.php")</favourite>
+    <favourite name="CBS USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-52.php")</favourite>
+    <favourite name="CW USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-300.php")</favourite>
+    <favourite name="CNBC USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-309.php")</favourite>
+    <favourite name="Comedy Central">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-310.php")</favourite>
+    <favourite name="Cartoon Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-339.php")</favourite>
+    <favourite name="CNN USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-345.php")</favourite>
+    <favourite name="Cinemax USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-374.php")</favourite>
+    <favourite name="Crime+ Investigation USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-669.php")</favourite>
+    <favourite name="Comet USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-696.php")</favourite>
+    <favourite name="Cooking Channel USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-697.php")</favourite>
+    <favourite name="Discovery Life Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-311.php")</favourite>
+    <favourite name="Disney Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-312.php")</favourite>
+    <favourite name="Discovery Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-313.php")</favourite>
+    <favourite name="Discovery Family">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-657.php")</favourite>
+    <favourite name="Disney XD">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-314.php")</favourite>
+    <favourite name="Destination America">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-651.php")</favourite>
+    <favourite name="Disney JR">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-652.php")</favourite>
+    <favourite name="ESPN USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-44.php")</favourite>
+    <favourite name="ESPN2 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-45.php")</favourite>
+    <favourite name="E! Entertainment Television">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-315.php")</favourite>
+    <favourite name="E4 Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-363.php")</favourite>
+    <favourite name="Fox Sports 1 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-39.php")</favourite>
+    <favourite name="Fox Sports 2 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-758.php")</favourite>
+    <favourite name="Fight Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-757.php")</favourite>
+    <favourite name="Fox Business">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-297.php")</favourite>
+    <favourite name="FOX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-54.php")</favourite>
+    <favourite name="FX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-317.php")</favourite>
+    <favourite name="FXX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-298.php")</favourite>
+    <favourite name="Freeform">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-301.php")</favourite>
+    <favourite name="Fox News">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-347.php")</favourite>
+    <favourite name="FX Movie Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-381.php")</favourite>
+    <favourite name="FETV - Family Entertainment Television">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-751.php")</favourite>
+    <favourite name="Fox Weather Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-775.php")</favourite>
+    <favourite name="GOLF Channel USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-318.php")</favourite>
+    <favourite name="Grit Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-752.php")</favourite>
+    <favourite name="The Hallmark Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-320.php")</favourite>
+    <favourite name="Hallmark Movies &amp; Mysterie">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-296.php")</favourite>
+    <favourite name="HBO USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-321.php")</favourite>
+    <favourite name="HBO2 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-689.php")</favourite>
+    <favourite name="HBO Comedy USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-690.php")</favourite>
+    <favourite name="HBO Family USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-691.php")</favourite>
+    <favourite name="HBO Latino USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-692.php")</favourite>
+    <favourite name="HBO Signature USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-693.php")</favourite>
+    <favourite name="HBO Zone USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-694.php")</favourite>
+    <favourite name="History USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-322.php")</favourite>
+    <favourite name="HGTV">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-382.php")</favourite>
+    <favourite name="Investigation Discovery (ID USA)">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-324.php")</favourite>
+    <favourite name="ION USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-325.php")</favourite>
+    <favourite name="IFC TV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-656.php")</favourite>
+    <favourite name="Lifetime Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-326.php")</favourite>
+    <favourite name="Lifetime Movies Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-389.php")</favourite>
+    <favourite name="MSNBC">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-327.php")</favourite>
+    <favourite name="Magnolia Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-299.php")</favourite>
+    <favourite name="MTV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-371.php")</favourite>
+    <favourite name="MAVTV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-646.php")</favourite>
+    <favourite name="MLB Network USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-399.php")</favourite>
+    <favourite name="METV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-662.php")</favourite>
+    <favourite name="MTV Denmark">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-806.php")</favourite>
+    <favourite name="NBC USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-53.php")</favourite>
+    <favourite name="NBA TV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-404.php")</favourite>
+    <favourite name="NFL Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-405.php")</favourite>
+    <favourite name="National Geographic (NGC)">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-328.php")</favourite>
+    <favourite name="NICK JR">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-329.php")</favourite>
+    <favourite name="NICK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-330.php")</favourite>
+    <favourite name="Nick Music">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-666.php")</favourite>
+    <favourite name="Nicktoons">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-649.php")</favourite>
+    <favourite name="NewsNation USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-292.php")</favourite>
+    <favourite name="Newsmax USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-613.php")</favourite>
+    <favourite name="Nat Geo Wild USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-745.php")</favourite>
+    <favourite name="Paramount Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-334.php")</favourite>
+    <favourite name="POP TV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-653.php")</favourite>
+    <favourite name="Reelz Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-293.php")</favourite>
+    <favourite name="SEC Network USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-385.php")</favourite>
+    <favourite name="Sportsnet One">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-411.php")</favourite>
+    <favourite name="Sportsnet West">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-407.php")</favourite>
+    <favourite name="Sportsnet East">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-408.php")</favourite>
+    <favourite name="Sportsnet 360">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-409.php")</favourite>
+    <favourite name="Sportsnet World">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-410.php")</favourite>
+    <favourite name="Sky Cinema Premiere UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-671.php")</favourite>
+    <favourite name="Sky Cinema Select UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-672.php")</favourite>
+    <favourite name="Sky Cinema Hits UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-673.php")</favourite>
+    <favourite name="Sky Cinema Greats UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-674.php")</favourite>
+    <favourite name="Sky Cinema Animation UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-675.php")</favourite>
+    <favourite name="Sky Cinema Family UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-676.php")</favourite>
+    <favourite name="Sky Cinema Action UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-677.php")</favourite>
+    <favourite name="Sky Cinema Thriller UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-679.php")</favourite>
+    <favourite name="Sky Cinema Sci-Fi Horror UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-681.php")</favourite>
+    <favourite name="Sky Arts UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-683.php")</favourite>
+    <favourite name="Sky Comedy UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-684.php")</favourite>
+    <favourite name="Sky Crime">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-685.php")</favourite>
+    <favourite name="Sky History">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-686.php")</favourite>
+    <favourite name="Science Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-294.php")</favourite>
+    <favourite name="Showtime USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-333.php")</favourite>
+    <favourite name="Starz">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-335.php")</favourite>
+    <favourite name="Sky Witness HD">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-361.php")</favourite>
+    <favourite name="SYFY USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-373.php")</favourite>
+    <favourite name="Sundance TV">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-658.php")</favourite>
+    <favourite name="Smithsonian Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-603.php")</favourite>
+    <favourite name="Telemundo">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-131.php")</favourite>
+    <favourite name="TBS USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-336.php")</favourite>
+    <favourite name="TLC">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-337.php")</favourite>
+    <favourite name="TNT USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-338.php")</favourite>
+    <favourite name="Travel Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-340.php")</favourite>
+    <favourite name="TruTV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-341.php")</favourite>
+    <favourite name="TVLAND">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-342.php")</favourite>
+    <favourite name="TCM USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-644.php")</favourite>
+    <favourite name="TMC Channel USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-698.php")</favourite>
+    <favourite name="The Food Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-384.php")</favourite>
+    <favourite name="The Weather Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-394.php")</favourite>
+    <favourite name="TeenNick">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-650.php")</favourite>
+    <favourite name="USA Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-343.php")</favourite>
+    <favourite name="Universal Kids USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-668.php")</favourite>
+    <favourite name="Univision">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-132.php")</favourite>
+    <favourite name="VH1 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-344.php")</favourite>
+    <favourite name="VICE TV">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-659.php")</favourite>
+    <favourite name="WETV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-655.php")</favourite>
+    <favourite name="YES Network USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-763.php")</favourite>
+    <favourite name="5 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-360.php")</favourite>
+</favourites>
