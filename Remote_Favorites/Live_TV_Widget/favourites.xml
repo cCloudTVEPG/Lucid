@@ -1,5 +1,5 @@
 <favourites>
-    <favourite name="A&amp;E USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D302")</favourite>
+    <favourite name="A&amp;E USA"  thumb="https://stitichsports.com/images/small_picture/small_pic406.jpg">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D302")</favourite>
     <favourite name="Adult Swim">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D295")</favourite>
 	<favourite name="AMC USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D303")</favourite>
     <favourite name="Animal Planet">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D304")</favourite>
