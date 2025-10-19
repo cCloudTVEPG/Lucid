@@ -1,0 +1,56 @@
+<favourites>
+    <favourite name="FXX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D298")</favourite>
+    <favourite name="FX Movie Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D381")</favourite>
+    <favourite name="Hallmark Movies &amp; Mysterie">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D296")</favourite>
+    <favourite name="HBO USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D321")</favourite>
+    <favourite name="HBO2 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D689")</favourite>
+    <favourite name="HBO Comedy USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D690")</favourite>
+    <favourite name="HBO Family USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D691")</favourite>
+    <favourite name="HBO Latino USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D692")</favourite>
+    <favourite name="HBO Signature USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D693")</favourite>
+    <favourite name="HBO Zone USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D694")</favourite>
+    <favourite name="IFC TV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D656")</favourite>
+    <favourite name="Lifetime Movies Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D389")</favourite>
+    <favourite name="Paramount Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D334")</favourite>
+    <favourite name="Reelz Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D293")</favourite>
+    <favourite name="Starz Cinema">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D970")</favourite>
+    <favourite name="Starz Comedy">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D971")</favourite>
+    <favourite name="Starz Edge">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D972")</favourite>
+    <favourite name="Starz In Black">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D973")</favourite>
+    <favourite name="Starz Kids &amp; Family">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D974")</favourite>
+    <favourite name="Starz Encore">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D975")</favourite>
+    <favourite name="Starz Encore Action">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D976")</favourite>
+    <favourite name="Starz Encore Black">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D977")</favourite>
+    <favourite name="Starz Encore Classic">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D978")</favourite>
+    <favourite name="Starz Encore Family">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D979")</favourite>
+    <favourite name="Starz Encore Suspense">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D980")</favourite>
+    <favourite name="Starz Encore Westerns">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D981")</favourite>
+    <favourite name="Sky Cinema Premiere UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D671")</favourite>
+    <favourite name="Sky Cinema Select UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D672")</favourite>
+    <favourite name="Sky Cinema Hits UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D673")</favourite>
+    <favourite name="Sky Cinema Greats UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D674")</favourite>
+    <favourite name="Sky Cinema Animation UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D675")</favourite>
+    <favourite name="Sky Cinema Family UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D676")</favourite>
+    <favourite name="Sky Cinema Action UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D677")</favourite>
+    <favourite name="Sky Cinema Comedy UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D678")</favourite>
+    <favourite name="Sky Cinema Thriller UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D679")</favourite>
+    <favourite name="Sky Cinema Drama UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D680")</favourite>
+    <favourite name="Sky Cinema Sci-Fi Horror UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D681")</favourite>
+    <favourite name="Showtime SHOxBET USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D695")</favourite>
+    <favourite name="Sky Showcase UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D682")</favourite>
+    <favourite name="Sky Arts UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D683")</favourite>
+    <favourite name="Sky Comedy UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D684")</favourite>
+    <favourite name="Sky Crime">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D685")</favourite>
+    <favourite name="Sky History">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D686")</favourite>
+    <favourite name="Sky MAX UK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D708")</favourite>
+    <favourite name="Showtime USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D333")</favourite>
+    <favourite name="Starz">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D335")</favourite>
+    <favourite name="Sundance TV">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D658")</favourite>
+    <favourite name="Showtime Showcase USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D793")</favourite>
+    <favourite name="Showtime Extreme USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D794")</favourite>
+    <favourite name="Showtime Family Zone (SHO Family Zone) USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D795")</favourite>
+    <favourite name="Showtime Next (SHO Next) USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D796")</favourite>
+    <favourite name="Showtime Women USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D797")</favourite>
+    <favourite name="TMC Channel USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D698")</favourite>
+    <favourite name="YES Network USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D763")</favourite>
+</favourites>
