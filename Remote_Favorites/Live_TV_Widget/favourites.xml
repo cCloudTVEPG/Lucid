@@ -1,27 +1,27 @@
 <favourites>
-    <favourite name="A&amp;E USA"  thumb="https://stitichsports.com/images/small_picture/small_pic406.jpg">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D302")</favourite>
-    <favourite name="Adult Swim">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D295")</favourite>
-	<favourite name="AMC USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D303")</favourite>
-    <favourite name="Animal Planet">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D304")</favourite>
-    <favourite name="Comedy Central">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D310")</favourite>
-    <favourite name="Cartoon Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D339")</favourite>
-    <favourite name="Cinemax USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D374")</favourite>
-    <favourite name="Disney Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D312")</favourite>
-    <favourite name="Discovery Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D313")</favourite>
-    <favourite name="FX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D317")</favourite>
-    <favourite name="FXX USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D298")</favourite>
-    <favourite name="Freeform">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D301")</favourite>
-    <favourite name="FX Movie Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D381")</favourite>
-    <favourite name="HBO USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D321")</favourite>
-    <favourite name="HBO2 USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D689")</favourite>
-    <favourite name="HBO Comedy USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D690")</favourite>
-    <favourite name="Investigation Discovery (ID USA)">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D324")</favourite>
-    <favourite name="MTV USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D371")</favourite>
-    <favourite name="National Geographic (NGC)">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D328")</favourite>
-    <favourite name="NICK">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D330")</favourite>
-    <favourite name="Paramount Network">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D334")</favourite>
-    <favourite name="Starz Cinema">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D970")</favourite>
-    <favourite name="Science Channel">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D294")</favourite>
-    <favourite name="Showtime USA">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D333")</favourite>
-    <favourite name="Starz">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D335")</favourite>
+    <favourite name="A&amp;E USA"  thumb="https://github.com/tv-logo/tv-logos/edit/main/countries/united-states/hd/a-and-e-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D302")</favourite>
+    <favourite name="Adult Swim"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D295")</favourite>
+	<favourite name="AMC USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/amc-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D303")</favourite>
+    <favourite name="Animal Planet"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/animal-planet-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D304")</favourite>
+    <favourite name="Comedy Central"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/comedy-central-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D310")</favourite>
+    <favourite name="Cartoon Network"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/cartoon-network-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D339")</favourite>
+    <favourite name="Cinemax USA"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D374")</favourite>
+    <favourite name="Disney Channel"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/disney-channel-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D312")</favourite>
+    <favourite name="Discovery Channel"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/discovery-channel-icon-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D313")</favourite>
+    <favourite name="FX USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/fx-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D317")</favourite>
+    <favourite name="FXX USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/fxx-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D298")</favourite>
+    <favourite name="Freeform"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D301")</favourite>
+    <favourite name="FX Movie Channel"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/fxm-movie-channel-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D381")</favourite>
+    <favourite name="HBO USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/hbo-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D321")</favourite>
+    <favourite name="HBO2 USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/hbo-2-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D689")</favourite>
+    <favourite name="HBO Comedy USA"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D690")</favourite>
+    <favourite name="Investigation Discovery (ID USA)"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D324")</favourite>
+    <favourite name="MTV USA"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D371")</favourite>
+    <favourite name="National Geographic (NGC)"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D328")</favourite>
+    <favourite name="NICK"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D330")</favourite>
+    <favourite name="Paramount Network"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-icon-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D334")</favourite>
+    <favourite name="Starz Cinema"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D970")</favourite>
+    <favourite name="Science Channel"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D294")</favourite>
+    <favourite name="Showtime USA"   thumb="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/showtime-icon-hd-us.png">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D333")</favourite>
+    <favourite name="Starz"   thumb="">PlayMedia("plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivestream.com%2Fwatch.php%3Fid%3D335")</favourite>
 </favourites>
